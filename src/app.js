@@ -3,7 +3,7 @@ var http = require('http').Server(app);
 var io = require('socket.io')(http);
 var randomNumber = require('./randomNumber');
 
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 3001;
 
 app.get('/', function (req, res) {
   res.send('Use socket.io-client to connect to the server...');

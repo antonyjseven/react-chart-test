@@ -8,7 +8,7 @@
     "@types/react": "^16.9.2",
     "@types/react-chartjs-2": "^2.5.7",
     "@types/react-dom": "^16.9.0",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "react": "^16.9.0",
     "react-chartjs-2": "^2.7.6",
     "react-dom": "^16.9.0",
